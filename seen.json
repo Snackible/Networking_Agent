@@ -1,0 +1,19 @@
+{
+  "_comment": "Dedup state. The agent adds a stable key per reported opportunity (lowercased venue+title) so recurring runs don't re-report the same thing. Do not hand-edit unless resetting.",
+  "seen": [
+    "inc42 fast42|india's fastest-growing d2c brands 2026",
+    "rephonic|the indian d2c playbook",
+    "rephonic|fynd out with ragini",
+    "aclr8 founder academy|founder interviews",
+    "brego business|beyond the dream ep 06",
+    "outlook business|outperformers rankings d2c 2026",
+    "d2c insider|frontier",
+    "inc42|d2c & retail summit and d2c retreat",
+    "exchange4media|e4m d2c summit and awards",
+    "india food forum|india food forum",
+    "foodtechbiz|future of food engineered today",
+    "tie|d2c summits",
+    "inc42 fast42|fast42 2027 \u2014 india's 42 fastest-growing d2c brands",
+    "global food pro|global food pro 2027 speaker expression of interest"
+  ]
+}
